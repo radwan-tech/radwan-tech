@@ -1,25 +1,87 @@
-- 👋 Hi, I’m @radwan-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm R. Alnu
 
-I am a passionate Mobile App Developer with experience in building cross-platform applications using modern frameworks. I love creating intuitive and responsive user interfaces, optimizing performance, and turning ideas into real-world apps. I am always eager to learn new technologies and improve my skills to deliver high-quality mobile experiences.
+Backend Systems Engineer focused on building scalable backend architectures, modern APIs, and high-performance applications.
 
-Skills & Tools:
+I specialize in:
+- Java & Spring Boot
+- Backend Architecture
+- Distributed Systems
+- Networking Fundamentals
+- Database Engineering
+- Performance & Scalability
 
-Flutter, React Native
+Alongside backend engineering, I also build cross-platform mobile applications using Flutter.
 
-Android & iOS development
+---
 
-Firebase, REST APIs
+## 🚀 Current Focus
 
-UI/UX Design & Prototyping
+Currently diving deep into:
+- JVM Internals
+- Spring Boot Internals
+- TCP/IP & HTTP
+- Scalable System Design
+- Database Optimization
+- Production Engineering
+- Cloud & Infrastructure
 
-Git & GitHub
-<!---
-radwan-tech/radwan-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- MySQL
+- SQL Server
+- Oracle SQL
+
+### Mobile
+- Flutter
+- Cross-Platform App Development
+
+### Tools & Technologies
+- Git & GitHub
+- Docker
+- Linux
+- Networking Fundamentals
+- System Design
+
+---
+
+## 🧠 Engineering Mindset
+
+I believe real engineering begins beyond tutorials.
+
+Understanding:
+- how systems scale,
+- how networks operate,
+- how databases behave under pressure,
+- and how backend architectures survive production traffic
+
+is what separates software developers from systems engineers.
+
+---
+
+## 📈 Currently Building
+
+- Scalable Backend Systems
+- RESTful APIs
+- Mobile Applications
+- System Design Knowledge
+- Deep Backend Engineering Skills
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn:www.linkedin.com/in/
+radwan-al-nuaimi-7795b8401
+
+- GitHub
+
+---
+
+> “Real engineering starts where abstraction ends.”
